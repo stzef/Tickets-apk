@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+ import React, { Component } from 'react';
 import {  Platform,  StyleSheet,  Text,  View,  ScrollView,  TextInput,  Picker,  Button } from 'react-native';
 import { Header } from 'react-native-elements';
 import Ticket from './src/views/Ticket';
